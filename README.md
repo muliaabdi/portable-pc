@@ -4,6 +4,10 @@ Implementation Linux Portable PC on Android Smartphone using native Termux and T
 
 [WATCH the complete VIDEO guide](https://www.youtube.com/watch?v=JEyhuMbY_68)
 
+<img width="1920" height="1080" alt="A_0005C780A260731_22401554_CANON-f003181" src="https://github.com/user-attachments/assets/29af7d26-0a21-4fc3-b74e-ab85377b82a2" />
+<img width="1920" height="1080" alt="A_0005C763A260731_180005IE_CANON-f005701" src="https://github.com/user-attachments/assets/d78609a7-135a-46fd-a7d4-a3d825b76e43" />
+
+
 Step by step guide:
 
 1. Download and install F-Droid from https://f-droid.org/
