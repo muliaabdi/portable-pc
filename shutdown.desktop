@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=Shutdown
+# Comment=Close Termux:X11 session
+# Exec: the command to run — kills the X server and session
+Exec=sh -c "current_pid=$$; pids=$(pgrep -f 'termux.x11' | grep -v $current_pid); if [ -n \"$pids\" ]; then kill -9 $pids; fi"
+Icon=xfsm-shutdown
+Terminal=true
+Categories=System;
+Path=
+StartupNotify=false
