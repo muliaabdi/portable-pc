@@ -1,4 +1,4 @@
-# Portable-PC Mode on Android Smartphone
+# Portable-PC mode on Android smartphone
 
 Implementation Linux Portable PC on Android Smartphone using native Termux and Termux-X11. 
 
