@@ -1,6 +1,6 @@
 # Portable-PC mode on Android smartphone
 
-Implementation Linux Portable PC on Android Smartphone using native Termux and Termux-X11 by [KepoinTekno](https://www.youtube.com/kepointekno). 
+Implementation Linux Portable PC on Android Smartphone using native Termux and Termux-X11
 
 [WATCH the complete VIDEO guide](https://www.youtube.com/watch?v=JEyhuMbY_68)
 
