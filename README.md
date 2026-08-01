@@ -2,7 +2,7 @@
 
 Implementation Linux Portable PC on Android Smartphone using native Termux and Termux-X11 by [KepoinTekno](https://www.youtube.com/kepointekno). 
 
-[WATCH the complete VIDEO guide]()
+[WATCH the complete VIDEO guide](https://www.youtube.com/watch?v=JEyhuMbY_68)
 
 Step by step guide:
 
