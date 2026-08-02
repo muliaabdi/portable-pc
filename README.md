@@ -77,9 +77,9 @@ Step by step guide:
 ===============
 
 Credit to:
-- [DroidDesk](https://github.com/orailnoor/DroidDesk) and [LinuxDroidMaster](https://github.com/LinuxDroidMaster), this implementation (and ongoing project) are inspired from both awesome projects.
+- [DroidDesk](https://github.com/orailnoor/DroidDesk) and [LinuxDroidMaster](https://github.com/LinuxDroidMaster), this implementation are inspired from both awesome projects.
 - [Termux](https://github.com/termux) and [Termux-X11](https://github.com/termux/termux-x11) developers who made this implementation possible
-- [XFCE](https://xfce.org/) as the awesome and light desktop environment used in this implementation project
+- [XFCE](https://xfce.org/) as the awesome and light desktop environment used in this implementation project.
 
 
 
